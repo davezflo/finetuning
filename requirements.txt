@@ -1,0 +1,11 @@
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+safetensors
+torch
+intel-extension-for-pytorch
+onnx
+onnxruntime
+onnxruntime-tools
